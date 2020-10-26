@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chimera_Importer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TempPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P:\temp\Chimera\export\OBJ</Value>
+    </Setting>
+    <Setting Name="MeshLabServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\VCG\MeshLab\meshlabserver.exe</Value>
+    </Setting>
+    <Setting Name="First" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

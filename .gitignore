@@ -1,0 +1,10 @@
+.vs/**
+_ReSharper.Caches/**
+Chimera-Importer/bin/**
+Chimera-Importer/obj/**
+Chimera-Importer/Chimera-Importer.pfx
+Chimera-Importer/ITinnovationsLibrary.dll
+Chimera-Importer/ITinnovationsAddForXceedToolkit.dll
+Installer/Installer/**
+Chimera-Importer.sln.DotSettings*
+UpgradeLog.htm

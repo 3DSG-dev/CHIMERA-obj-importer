@@ -1,0 +1,2 @@
+You need ITinnovationsLibrary to use CHIMERA OBJ Importer
+You can get it from https://www.itinnovations.it
