@@ -6,6 +6,7 @@ Chimera-Importer/Chimera-Importer.pfx
 Chimera-Importer/ITinnovationsLibrary.dll
 Chimera-Importer/ITinnovationsAddForXceedToolkit.dll
 ExtendedWPFToolkit/Xceed.Wpf.Toolkit/bin/**
+ExtendedWPFToolkit/Xceed.Wpf.Toolkit/obj/**
 Installer/Installer/**
 Chimera-Importer.sln.DotSettings*
 UpgradeLog.htm
