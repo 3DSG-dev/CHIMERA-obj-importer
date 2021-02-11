@@ -56,12 +56,12 @@
 		<author>##ID_STRING3##</author>
 		<keywords>Installer,MSI,Database</keywords>
 		<comments>Contact:  Your local administrator</comments>
-		<template>x64;1033</template>
+		<template>Intel;1033</template>
 		<lastauthor>Administrator</lastauthor>
 		<revnumber>{7A59FBC0-ECE4-4717-8EC0-063F0DE37455}</revnumber>
 		<lastprinted/>
-		<createdtm>06/21/1999 14:00</createdtm>
-		<lastsavedtm>07/14/2000 17:50</lastsavedtm>
+		<createdtm>06/21/1999 15:00</createdtm>
+		<lastsavedtm>07/14/2000 18:50</lastsavedtm>
 		<pagecount>200</pagecount>
 		<wordcount>0</wordcount>
 		<charcount/>
@@ -1929,19 +1929,19 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
-		<row><td>Chimera_importer.exe</td><td>Chimera_Importer.exe</td><td>BIM3DS~1.EXE|Chimera-Importer.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>1</td><td/></row>
-		<row><td>Chimera_importer.exe.config</td><td>ISX_DEFAULTCOMPONENT1</td><td>BIM3DS~1.CON|Chimera-Importer.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Chimera-Importer.exe.config</td><td>1</td><td/></row>
-		<row><td>itinnovationsaddforxceedtool</td><td>ITinnovationsAddForXceedToolkit.dll</td><td>ITINNO~1.DLL|ITinnovationsAddForXceedToolkit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\ITinnovationsAddForXceedToolkit.dll</td><td>1</td><td/></row>
-		<row><td>itinnovationslibrary.dll</td><td>ITinnovationsLibrary.dll</td><td>ITINNO~1.DLL|ITinnovationsLibrary.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\ITinnovationsLibrary.dll</td><td>1</td><td/></row>
-		<row><td>microsoft.windows.shell.dll</td><td>Microsoft.Windows.Shell.dll</td><td>MICROS~1.DLL|Microsoft.Windows.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Microsoft.Windows.Shell.dll</td><td>1</td><td/></row>
-		<row><td>testscript_1.mlx</td><td>ISX_DEFAULTCOMPONENT2</td><td>TESTSC~1.MLX|testscript-1.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-1.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_2.mlx</td><td>ISX_DEFAULTCOMPONENT3</td><td>TESTSC~1.MLX|testscript-2.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-2.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_3.mlx</td><td>ISX_DEFAULTCOMPONENT4</td><td>TESTSC~1.MLX|testscript-3.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-3.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_4.mlx</td><td>ISX_DEFAULTCOMPONENT5</td><td>TESTSC~1.MLX|testscript-4.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-4.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_5.mlx</td><td>ISX_DEFAULTCOMPONENT6</td><td>TESTSC~1.MLX|testscript-5.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-5.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_6.mlx</td><td>ISX_DEFAULTCOMPONENT7</td><td>TESTSC~1.MLX|testscript-6.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-6.mlx</td><td>1</td><td/></row>
-		<row><td>testscript_7.mlx</td><td>ISX_DEFAULTCOMPONENT8</td><td>TESTSC~1.MLX|testscript-7.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\testscript-7.mlx</td><td>1</td><td/></row>
-		<row><td>xceed.wpf.toolkit.dll</td><td>Xceed.Wpf.Toolkit.dll</td><td>XCEEDW~1.DLL|Xceed.Wpf.Toolkit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Xceed.Wpf.Toolkit.dll</td><td>1</td><td/></row>
+		<row><td>Chimera_importer.exe</td><td>Chimera_Importer.exe</td><td>BIM3DS~1.EXE|Chimera-Importer.exe</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>1</td><td/></row>
+		<row><td>Chimera_importer.exe.config</td><td>ISX_DEFAULTCOMPONENT1</td><td>BIM3DS~1.CON|Chimera-Importer.exe.config</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe.config</td><td>1</td><td/></row>
+		<row><td>itinnovationsaddforxceedtool</td><td>ITinnovationsAddForXceedToolkit.dll</td><td>ITINNO~1.DLL|ITinnovationsAddForXceedToolkit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\ITinnovationsAddForXceedToolkit.dll</td><td>1</td><td/></row>
+		<row><td>itinnovationslibrary.dll</td><td>ITinnovationsLibrary.dll</td><td>ITINNO~1.DLL|ITinnovationsLibrary.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\ITinnovationsLibrary.dll</td><td>1</td><td/></row>
+		<row><td>microsoft.windows.shell.dll</td><td>Microsoft.Windows.Shell.dll</td><td>MICROS~1.DLL|Microsoft.Windows.Shell.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Microsoft.Windows.Shell.dll</td><td>1</td><td/></row>
+		<row><td>testscript_1.mlx</td><td>ISX_DEFAULTCOMPONENT2</td><td>TESTSC~1.MLX|testscript-1.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-1.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_2.mlx</td><td>ISX_DEFAULTCOMPONENT3</td><td>TESTSC~1.MLX|testscript-2.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-2.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_3.mlx</td><td>ISX_DEFAULTCOMPONENT4</td><td>TESTSC~1.MLX|testscript-3.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-3.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_4.mlx</td><td>ISX_DEFAULTCOMPONENT5</td><td>TESTSC~1.MLX|testscript-4.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-4.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_5.mlx</td><td>ISX_DEFAULTCOMPONENT6</td><td>TESTSC~1.MLX|testscript-5.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-5.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_6.mlx</td><td>ISX_DEFAULTCOMPONENT7</td><td>TESTSC~1.MLX|testscript-6.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-6.mlx</td><td>1</td><td/></row>
+		<row><td>testscript_7.mlx</td><td>ISX_DEFAULTCOMPONENT8</td><td>TESTSC~1.MLX|testscript-7.mlx</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\testscript-7.mlx</td><td>1</td><td/></row>
+		<row><td>xceed.wpf.toolkit.dll</td><td>Xceed.Wpf.Toolkit.dll</td><td>XCEEDW~1.DLL|Xceed.Wpf.Toolkit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Xceed.Wpf.Toolkit.dll</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -3967,7 +3967,6 @@
 	<table name="ISVirtualPackage">
 		<col key="yes" def="s72">Name</col>
 		<col def="s255">Value</col>
-		<row><td>AppVClientVersion</td><td>5</td></row>
 	</table>
 
 	<table name="ISVirtualRegistry">
@@ -3981,24 +3980,6 @@
 		<col key="yes" def="s72">ISProductConfiguration_</col>
 		<col key="yes" def="s255">Name</col>
 		<col def="s255">Value</col>
-		<row><td>CD_ROM</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>CD_ROM</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>Custom</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>Custom</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>DVD-10</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>DVD-10</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>DVD-18</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>DVD-18</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>DVD-5</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>DVD-5</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>DVD-9</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>DVD-9</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>Debug</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>Debug</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>SingleImage</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>SingleImage</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
-		<row><td>WebDeployment</td><td>Express</td><td>AppxTargetMSIXCoreMax</td><td>10.0.14393.0</td></row>
-		<row><td>WebDeployment</td><td>Express</td><td>AppxTargetMSIXCoreMin</td><td>6.1.7601.0</td></row>
 	</table>
 
 	<table name="ISVirtualShortcut">
@@ -4064,11 +4045,11 @@
 		<col def="I2">ISIconIndex</col>
 		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
 		<row><td>Chimera_Importer.v_54F051D34F714D1D87FE7163B62AF8B4.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\GenericExe.ico</td><td>0</td></row>
-		<row><td>NewShortcut1_6449D0505A0D4E02B9956429B5AC6F82.exe</td><td/><td>&lt;ISProductFolder&gt;\Redist\Language Independent\OS Independent\Uninstall.ico</td><td>0</td></row>
+		<row><td>NewShortcut1_578D86BA12C54F8E8729E29501521D4C.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 		<row><td>NewShortcut1_E744B230808848889154A95F7B8F842E.exe</td><td/><td>C:\Unità\HD WD 750GB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
-		<row><td>NewShortcut21_1F1AC3A1CB19432B8E95B6C4BB2DD02C.exe</td><td/><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
+		<row><td>NewShortcut21_1F1AC3A1CB19432B8E95B6C4BB2DD02C.exe</td><td/><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
 		<row><td>NewShortcut2_D7D4D973E5F44810A86F6EFBA15FB157.exe</td><td/><td>C:\Unità\HD WD 750GB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
-		<row><td>NewShortcut2_DD6DF2A789AD4BA5B1647A08220C19D8.exe</td><td/><td>C:\Unità\Samsung 1TB\Politecnico\GitHub\CHIMERA-obj-importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
+		<row><td>NewShortcut2_DD6DF2A789AD4BA5B1647A08220C19D8.exe</td><td/><td>C:\Unità\Samsung 1TB\Politecnico\TFS\PoliBIM\Chimera\Chimera-Importer\Chimera-Importer\bin\Release\Chimera-Importer.exe</td><td>0</td></row>
 	</table>
 
 	<table name="IniFile">
@@ -4203,7 +4184,6 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{DF3B6A95-9785-4087-8D71-5887A4D3A191}</td></row>
 		<row><td>ISUSSignature</td><td>{DD4B8D4C-C814-4065-B478-2C1919216073}</td></row>
-		<row><td>ISUpdateNotifications</td><td>0</td></row>
 		<row><td>ISVisitedViews</td><td>viewAssistant,viewShortcuts,viewISToday,viewProject,viewUpgradePaths,viewUpdateService,viewAppFiles,viewObjects,viewFileExtensions,viewServices,viewUI,viewTextMessages,viewSystemSearch,viewCustomActions,viewRelease</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4215,7 +4195,7 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>SaveAsSchema</td><td/></row>
 		<row><td>SccEnabled</td><td>0</td></row>
 		<row><td>SccPath</td><td/></row>
-		<row><td>SchemaVersion</td><td>783</td></row>
+		<row><td>SchemaVersion</td><td>782</td></row>
 		<row><td>Type</td><td>MSI</td></row>
 	</table>
 
@@ -4582,9 +4562,9 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]Chimera-Importer.exe</td><td/></row>
-		<row><td>ProductCode</td><td>{EF7AB85E-0127-4C29-8F7E-99432256036D}</td><td/></row>
+		<row><td>ProductCode</td><td>{EAE811F8-FF53-4CEB-BAB5-6DC3AD5C46D6}</td><td/></row>
 		<row><td>ProductName</td><td>Chimera Importer</td><td/></row>
-		<row><td>ProductVersion</td><td>6.02.001</td><td/></row>
+		<row><td>ProductVersion</td><td>3.00.001</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -4597,10 +4577,10 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
 		<row><td>SHOWLAUNCHPROGRAM</td><td>-1</td><td/></row>
-		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL;ISACTIONPROP1</td><td/></row>
+		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL;ISACTIONPROP1;ISACTIONPROP2;ISACTIONPROP3</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
-		<row><td>UpgradeCode</td><td>{7B520836-BB88-4AEF-AC57-F976D4FFDFAD}</td><td/></row>
+		<row><td>UpgradeCode</td><td>{3BF75DAF-DD83-47D1-8F1B-88680A0EC9B1}</td><td/></row>
 		<row><td>_IsMaintenance</td><td>Change</td><td/></row>
 		<row><td>_IsSetupTypeMin</td><td>Typical</td><td/></row>
 	</table>
@@ -4748,7 +4728,7 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>NewShortcut1</td><td>Chimera_importer</td><td>##ID_STRING7##</td><td>ISX_DEFAULTCOMPONENT9</td><td>[SystemFolder]MsiExec.exe</td><td>/x [ProductCode]</td><td/><td/><td>NewShortcut1_6449D0505A0D4E02B9956429B5AC6F82.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>NewShortcut1</td><td>Chimera_importer</td><td>##ID_STRING7##</td><td>ISX_DEFAULTCOMPONENT9</td><td>[SystemFolder]MsiExec.exe</td><td>/x [ProductCode]</td><td/><td/><td>NewShortcut1_578D86BA12C54F8E8729E29501521D4C.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut2</td><td>Chimera_importer</td><td>##ID_STRING8##</td><td>Chimera_Importer.exe</td><td>[INSTALLDIR]Chimera-Importer.exe</td><td/><td/><td/><td>NewShortcut2_DD6DF2A789AD4BA5B1647A08220C19D8.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut21</td><td>DesktopFolder</td><td>##ID_STRING9##</td><td>Chimera_Importer.exe</td><td>[INSTALLDIR]Chimera-Importer.exe</td><td/><td/><td/><td>NewShortcut21_1F1AC3A1CB19432B8E95B6C4BB2DD02C.exe</td><td>1</td><td>1</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
@@ -4873,7 +4853,9 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">ActionProperty</col>
 		<col def="S72">ISDisplayName</col>
 		<row><td>{00000000-0000-0000-0000-000000000000}</td><td>***ALL_VERSIONS***</td><td></td><td></td><td>2</td><td/><td>ISFOUNDNEWERPRODUCTVERSION</td><td>ISPreventDowngrade</td></row>
-		<row><td>{00000000-0000-0000-0000-000000000000}</td><td></td><td>6.01.001.0002</td><td>1033</td><td>768</td><td/><td>ISACTIONPROP1</td><td>NewUpgradeEntry1</td></row>
+		<row><td>{3BF75DAF-DD83-47D1-8F1B-88680A0EC9B1}</td><td>1.00.001</td><td>1.00.001</td><td></td><td>768</td><td/><td>ISACTIONPROP1</td><td>NewUpgradeEntry1</td></row>
+		<row><td>{3BF75DAF-DD83-47D1-8F1B-88680A0EC9B1}</td><td>2.00.001</td><td>2.00.004</td><td></td><td>768</td><td/><td>ISACTIONPROP2</td><td>NewUpgradeEntry2</td></row>
+		<row><td>{3BF75DAF-DD83-47D1-8F1B-88680A0EC9B1}</td><td>3.00.001</td><td>3.00.001</td><td></td><td>768</td><td/><td>ISACTIONPROP3</td><td>NewUpgradeEntry3</td></row>
 	</table>
 
 	<table name="Verb">

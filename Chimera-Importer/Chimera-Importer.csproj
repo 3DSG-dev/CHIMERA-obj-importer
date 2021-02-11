@@ -51,7 +51,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\ITinnovationsAddForXceedToolkit.dll</HintPath>
     </Reference>
-    <Reference Include="ITinnovationsLibrary, Version=2.1.4.1, Culture=neutral, PublicKeyToken=272d284cb5f08b64, processorArchitecture=MSIL">
+    <Reference Include="ITinnovationsLibrary, Version=2.2.7.1, Culture=neutral, PublicKeyToken=272d284cb5f08b64, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\ITinnovationsLibrary.dll</HintPath>
     </Reference>
