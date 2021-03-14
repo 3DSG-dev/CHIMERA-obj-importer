@@ -72,7 +72,7 @@ namespace Chimera_Importer.SelectDB
                                            Value = AuthenticationUtility.User
                                        };
 
-            _db.NewCommand("SELECT * FROM \"DatabaseList\" JOIN \"AccessList\" ON \"Name\" = \"Database\" WHERE \"Username\" = ? AND \"Enabled\" = true ORDER BY \"Name\"");
+            _db.NewCommand("SELECT * FROM \"DatabaseList\" JOIN \"AccessList\" ON \"Name\" = \"Database\" WHERE \"User\" = ? AND \"Enabled\" = true ORDER BY \"Name\"");
             _db.ParametersAdd(dbUser);
 
             OdbcDataReader myReader = _db.SafeExecuteReader();
