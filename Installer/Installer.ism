@@ -4582,9 +4582,9 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]Chimera-Importer.exe</td><td/></row>
-		<row><td>ProductCode</td><td>{EF7AB85E-0127-4C29-8F7E-99432256036D}</td><td/></row>
+		<row><td>ProductCode</td><td>{0E06CEB5-916F-4BCB-B964-CE8AE34C739E}</td><td/></row>
 		<row><td>ProductName</td><td>Chimera Importer</td><td/></row>
-		<row><td>ProductVersion</td><td>6.02.001</td><td/></row>
+		<row><td>ProductVersion</td><td>6.02.002</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -4597,7 +4597,7 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
 		<row><td>SHOWLAUNCHPROGRAM</td><td>-1</td><td/></row>
-		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL;ISACTIONPROP1</td><td/></row>
+		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL;ISACTIONPROP1;ISACTIONPROP2</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
 		<row><td>UpgradeCode</td><td>{7B520836-BB88-4AEF-AC57-F976D4FFDFAD}</td><td/></row>
@@ -4874,6 +4874,7 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S72">ISDisplayName</col>
 		<row><td>{00000000-0000-0000-0000-000000000000}</td><td>***ALL_VERSIONS***</td><td></td><td></td><td>2</td><td/><td>ISFOUNDNEWERPRODUCTVERSION</td><td>ISPreventDowngrade</td></row>
 		<row><td>{00000000-0000-0000-0000-000000000000}</td><td></td><td>6.01.001.0002</td><td>1033</td><td>768</td><td/><td>ISACTIONPROP1</td><td>NewUpgradeEntry1</td></row>
+		<row><td>{7B520836-BB88-4AEF-AC57-F976D4FFDFAD}</td><td>6.02.001</td><td>6.02.002</td><td></td><td>769</td><td/><td>ISACTIONPROP2</td><td>NewUpgradeEntry2</td></row>
 	</table>
 
 	<table name="Verb">
