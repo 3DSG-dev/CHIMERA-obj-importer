@@ -1207,7 +1207,7 @@
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
-		<row><td>polite_1_politecnico_di_milano</td><td>ProgramMenuFolder</td><td>polite~1|politecnico di milano</td><td/><td>1</td><td/></row>
+		<row><td>polite_1_politecnico_di_milano</td><td>ProgramMenuFolder</td><td>POLITE~1|Politecnico di Milano</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -4582,9 +4582,9 @@ RABlAGIAdQBnAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]Chimera-Importer.exe</td><td/></row>
-		<row><td>ProductCode</td><td>{0E06CEB5-916F-4BCB-B964-CE8AE34C739E}</td><td/></row>
+		<row><td>ProductCode</td><td>{DC825619-44A1-4BD8-B15F-43ED8809D02F}</td><td/></row>
 		<row><td>ProductName</td><td>Chimera Importer</td><td/></row>
-		<row><td>ProductVersion</td><td>6.02.002</td><td/></row>
+		<row><td>ProductVersion</td><td>6.02.003</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
